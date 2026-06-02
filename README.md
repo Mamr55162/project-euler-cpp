@@ -2,7 +2,6 @@
 
 <img width="1280" height="878" alt="Project Euler&#39;s image design" src="https://github.com/user-attachments/assets/9bea5bfa-b6a3-41f6-8d13-6c4e45a6afea" />
 
-***Project Euler art made by me***
 
 
 A collection of my solutions to problems from the [Project Euler](https://projecteuler.net/) platform using modern C++.
