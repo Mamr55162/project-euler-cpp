@@ -48,7 +48,7 @@ This repository includes problems involving:
 ## Repository Structure
 
 ```text
-Project_Euler_Improved/
+Project_Euler/
 │
 ├── Longest Collatz Sequence.cpp
 ├── Summation of Primes.cpp
