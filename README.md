@@ -1,6 +1,8 @@
 # Project Euler Solutions in C++
 
-<img width="594" height="208" alt="Screenshot 2026-06-03 001109" src="https://github.com/user-attachments/assets/f483d3b6-5ce6-4292-ab58-71ad4cfe8dab" />
+<img width="1280" height="878" alt="Project Euler&#39;s image design" src="https://github.com/user-attachments/assets/9bea5bfa-b6a3-41f6-8d13-6c4e45a6afea" />
+
+***Project Euler art made by me***
 
 
 A collection of my solutions to problems from the [Project Euler](https://projecteuler.net/) platform using modern C++.
